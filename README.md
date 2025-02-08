@@ -14,6 +14,6 @@
 
 
 ## Test 
-Test 0: ./ass1-soln 4 2 < test0.tsv 
-Test 1: ./ass1-soln 1 4 < test1.tsv 
+Test 0: ./ass1-soln 4 2 < test0.tsv   
+Test 1: ./ass1-soln 1 4 < test1.tsv   
 Test 2: ./ass1-soln 1 4 2 < test2.tsv 
